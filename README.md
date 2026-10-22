@@ -1,6 +1,6 @@
 # 43030 Portfolio
 
-## Goal 1https://github.com/
+## Goal 1
 Demonstrate understanding of ethical principles and practices in a professional context, especially in relation to Indigenous Communities.
 
 ### Evidence
@@ -32,11 +32,11 @@ Demonstrate foundational skills in Software Development Tools
 Develop an environment monitoring system, using a microcontroller as the server and mobile application as the client.
 
 ### Evidence
-- [GitHub Repository (43030-goal4-env-monitoring-sys)](https://github.com/tomasvana10/43030-goal4-env-monitoring-sys/)
+[![Repo Preview](https://github-readme-stats.vercel.app/api/pin/?username=tomasvana10&repo=43030-goal4-env-monitoring-sys)](https://github.com/tomasvana10/43030-goal4-env-monitoring-sys)
 
 
 ## Goal 5
 Develop a GraphQL API for a library-oriented database, and a client that uses it.
 
 ### Evidence
-- [GitHub Repository (43030-goal5-graphql-library-api)](https://github.com/tomasvana10/43030-goal5-graphql-library-api)
+[![Repo Preview](https://github-readme-stats.vercel.app/api/pin/?username=tomasvana10&repo=43030-goal5-graphql-library-api)](https://github.com/tomasvana10/43030-goal5-graphql-library-api)
