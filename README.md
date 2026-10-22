@@ -1,6 +1,6 @@
 # 43030 Portfolio
 
-## Goal 1
+## Goal 1https://github.com/
 Demonstrate understanding of ethical principles and practices in a professional context, especially in relation to Indigenous Communities.
 
 ### Evidence
@@ -12,15 +12,11 @@ Demonstrate foundational skills in Cybersecurity
 
 ### Evidence
 
-- <figure>
-    <img src="/goal2_quiz1.png" width="400" />
-    <figcaption>Assessment 1: Quiz</figcaption>
-  </figure>
+- <img src="/goal2_quiz1.png" width="550" /><br>
+  *Assessment 1: Quiz*
 
-- <figure>
-    <img src="/goal2_quiz2.png" width="400" />
-    <figcaption>Assessment 2: Quiz</figcaption>
-  </figure>
+- <img src="/goal2_quiz2.png" width="550" /><br>
+  *Assessment 2: Quiz*
 
 - [Assessment 3: Cybersecurity Incident and Defence Strategies]()
 
