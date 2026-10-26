@@ -4,7 +4,7 @@
 Demonstrate understanding of ethical principles and practices in a professional context, especially in relation to Indigenous Communities.
 
 ### Evidence
-- [Email to Management](/email_to_management.pdf)
+- [Email to Management](/goal1_email_to_management.pdf)
 
 
 ## Goal 2 
@@ -18,7 +18,9 @@ Demonstrate foundational skills in Cybersecurity
 - <img src="/goal2_quiz2.png" width="550" /><br>
   *Assessment 2: Quiz*
 
-- [Assessment 3: Cybersecurity Incident and Defence Strategies]()
+- Assessment 3: Cybersecurity Incident and Defence Strategies
+  - [Report](/goal2_cybersec_report.pdf)
+  - [Video](/goal2_cybersec_report.pdf)
 
 
 ## Goal 3
