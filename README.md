@@ -20,7 +20,7 @@ Demonstrate foundational skills in Cybersecurity
 
 - Assessment 3: Cybersecurity Incident and Defence Strategies
   - [Report](/goal2_cybersec_report.pdf)
-  - [Video](/goal2_cybersec_report.pdf)
+  - [Video](/goal2_cybersec_video.mp4)
 
 
 ## Goal 3
